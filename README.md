@@ -1,3 +1,3 @@
-# hello-world
-Repositório de teste
-Editando o arquivo Readme do meu repositório
+# ecom-aceleradev-test
+Projeto criado em uma aula do aceleradev.
+Repositório teste.
